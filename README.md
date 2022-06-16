@@ -14,3 +14,6 @@ add --coverage to     "test": "jest --watchAll --verbose"
 npm init vite
 npm i jest --save-dev
 npm i @types/jest
+
+## run test
+npm run test 
